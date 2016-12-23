@@ -1,0 +1,7 @@
+Printing started 1482530857730
+Task 1
+Task 6
+Task 5
+Task 3
+Task 7
+Printing finished 1482530899018
